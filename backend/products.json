@@ -1,0 +1,6 @@
+[
+ {"id":1,"name":"Ruby Glow Panati Set","category":"Panatis","unit":"set of 6","price_paise":29900,"image":"/images/panatis.png","tag":"Festive favourite","description":"Ruby red panatis with delicate golden details for a warm welcome."},
+ {"id":2,"name":"Golden Lotus Tealights","category":"Decor","unit":"pair","price_paise":64900,"image":"/images/lotus.png","tag":"A golden touch","description":"Lotus-inspired brass holders that bring a gentle glow to your table."},
+ {"id":3,"name":"Celebration Akash Kandil","category":"Decor","unit":"1 lantern","price_paise":44900,"image":"/images/kandil.png","tag":"Light up your doorway","description":"A red and gold festive lantern with flowing paper tassels."},
+ {"id":4,"name":"The Diwali Celebration Edit","category":"Gifts","unit":"gift collection","price_paise":149900,"image":"/images/hero.png","tag":"Made for gifting","description":"A festive assortment of panatis, lotus holders and a glowing kandil."}
+]
